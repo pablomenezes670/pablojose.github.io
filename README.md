@@ -1,2 +1,2 @@
 # pablojose.github.io
-- [Clinica](pablojose/desafioclinicadio)
+- [wikipedia](https://github.com/pablomenezes670/site-wikipedia)
